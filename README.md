@@ -1,6 +1,6 @@
 # 📝 Notes App
 
-A simple Notes App built using the MERN stack and Next.js framework. This app allows users to perform CRUD operations on their notes.
+A simple Notes App built using the MERN stack and Next.js framework (CSR). This app allows users to perform CRUD operations on their notes.
 
 ## 🚀 Features
 
